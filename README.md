@@ -3,3 +3,7 @@
 A new Flutter project.
 
 ![Screenshot hello_world](images/01.png)
+
+Implementing Text Widget in a Flutter project
+
+![Screenshot hello_world](images/02.png)
