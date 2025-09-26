@@ -7,3 +7,8 @@ A new Flutter project.
 Implementing Text Widget in a Flutter project
 
 ![Screenshot hello_world](images/02.png)
+
+Implementing Image Widget in a Flutter project
+
+![Screenshot hello_world](images/03.png)
+
