@@ -14,5 +14,5 @@ Implementing Image Widget in a Flutter project
 
 Implementing Material & Cupertino
 
-![Screenshot hello_world](images/04.png)
-![Screenshot hello_world](images/05.png)
+<img src="images/04.png" alt="Screenshot hello_world" width="300"/>
+<img src="images/05.png" alt="Screenshot hello_world" width="300"/>
